@@ -1,6 +1,8 @@
 import Showcase from './Showcase';
 import BaseStats from './BaseStats';
+import PokeMoves from './PokeMoves';
 import './App.css';
+
 
 function App() {
   const baseStats = {
